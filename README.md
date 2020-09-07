@@ -1,3 +1,12 @@
+# About me
+- Name: Taihei Mishima
+- Birth: 1992/05/29
+- Address: Tokyo
+- University
+  - [Nagoya City University](https://www.nagoya-cu.ac.jp/)
+  - [Arts and Engineering Faculty](https://www.nagoya-cu.ac.jp/sda/index.html)
+  - [Information Environment Design Department](https://www.nagoya-cu.ac.jp/sda/undergraduate/informatics/index.html)
+
 # Technology stack
 ### iOS
 Swift / Flutter / Bitirse / fastlane / Firebase
