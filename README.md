@@ -14,6 +14,12 @@ Swift / Flutter / Bitirse / fastlane / Firebase
 ### Backend
 Ruby(Rails) / PHP / Java
 
+### Articles
+- [Medium](https://medium.com/@tihimsm)
+- [Zenn](https://zenn.dev/tihimsm)
+- [Qiita](https://qiita.com/tihimsm)
+- [Speaker Deck](https://speakerdeck.com/tihimsm)
+
 # Work history
 ## [Activaid株式会社](https://activaid.me/ibd/about)
 ### iOS application development
