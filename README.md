@@ -14,7 +14,7 @@ Swift / Flutter / Bitirse / fastlane / Firebase
 ### Backend
 Ruby(Rails) / PHP / Java
 
-### Articles
+# Articles
 - [Medium](https://medium.com/@tihimsm)
 - [Zenn](https://zenn.dev/tihimsm)
 - [Qiita](https://qiita.com/tihimsm)
