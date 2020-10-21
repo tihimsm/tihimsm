@@ -8,11 +8,14 @@
   - [Information Environment Design Department](https://www.nagoya-cu.ac.jp/sda/undergraduate/informatics/index.html)
 
 # Technology stack
-### iOS
-Swift / Flutter / Bitirse / fastlane / Firebase
-
-### Backend
-Ruby(Rails) / PHP / Java
+- Swift
+- Flutter
+- Bitirse
+- fastlane
+- Firebase
+- Ruby
+- PHP
+- Java
 
 # Articles
 - [Medium](https://medium.com/@tihimsm)
