@@ -2,10 +2,13 @@
 - Name: Taihei Mishima
 - Birth: 1992/05/29
 - Address: Tokyo
-- University
-  - [Nagoya City University](https://www.nagoya-cu.ac.jp/)
-  - [Arts and Engineering Faculty](https://www.nagoya-cu.ac.jp/sda/index.html)
-  - [Information Environment Design Department](https://www.nagoya-cu.ac.jp/sda/undergraduate/informatics/index.html)
+ 
+# Github Activities
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=tihimsm&theme=dark&layout=compact)](https://github.com/tihimsm)
+
+![trophy](https://github-readme-stats.vercel.app/api?username=tihimsm&show_icons=true&theme=dark&count_private=true&line_height=40)
+
+[![trophy](https://github-profile-trophy.vercel.app/?username=tihimsm&theme=tokyonight&rank=SECRET,SSS,SS,S,AAA,AA,A,B&no-bg=true)](https://github.com/tihimsm) 
 
 # Technology stack
 - Swift
@@ -13,10 +16,6 @@
 - Bitirse
 - fastlane
 - Firebase
-- Ruby
-- PHP
-- Java
-- ReactNative
 
 # Articles
 - [Medium](https://medium.com/@tihimsm)
